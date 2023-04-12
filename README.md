@@ -1,6 +1,6 @@
 <h3 align="left">Proompter from 2049. Only using AutoGPT for coding web apps like a true proompter</h3>
 
-<h3 align="left">In case of an investigation by any Linux catgirl users, I do not have any involvement with this group or the catgirl community in general. I do not and will not possess any type of programming socks in the future:</h3>
+<h3 align="left">In case of an investigation by any Linux catgirl users, I do not have any involvement with this group or the catgirl community in general. I do not and will not possess any type of programming socks in the future.</h3>
 <p align="left">
 </p>
 
